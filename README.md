@@ -6,14 +6,14 @@ Personal support repo storing support files for my other projects.
 
 # index
 
-| Project                        | Support File                                                                                                                                 |               |
-| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| [analysis-of-herbarium-sheets] | <ul><li>Default datasets for semantic segmentation: [herbarium_sheets]</li> <li>Default datasets for object detection: [VOCdevkit]</li></ul> | [back to top] |
-| [html-css-js-demos]            | [html-css-js-demos-previews]                                                                                                                 | [back to top] |
-| [mall]                         | [mall-previews]                                                                                                                              | [back to top] |
-| [vhr]                          | [vhr-previews]                                                                                                                               | [back to top] |
-| [fxgame]                       | [fxgame-previews]                                                                                                                            | [back to top] |
-| [graph-visualisation]          | [graph-visualisation-previews]                                                                                                               | [back to top] |
+| Project                            | Support File                                                                                                                                 |               |
+| ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [analysis-of-herbarium-sheets]     | <ul><li>Default datasets for semantic segmentation: [herbarium_sheets]</li> <li>Default datasets for object detection: [VOCdevkit]</li></ul> | [back to top] |
+| [html-css-js-demos]                | [html-css-js-demos-previews]                                                                                                                 | [back to top] |
+| [mall]                             | [mall-previews]                                                                                                                              | [back to top] |
+| [human resource management system] | [hrms-previews]                                                                                                                              | [back to top] |
+| [fxgame]                           | [fxgame-previews]                                                                                                                            | [back to top] |
+| [graph-visualisation]              | [graph-visualisation-previews]                                                                                                               | [back to top] |
 
 # How to use
 
@@ -38,8 +38,8 @@ upload mall, vhr, fxgame, graph-visualisation previews
 [html-css-js-demos-previews]: ./html-css-js-demos/previews/
 [mall]: https://github.com/lyzsk/graduate-mall
 [mall-previews]: #todo
-[vhr]: https://github.com/lyzsk/graduate-vhr
-[vhr-previews]: #todo
+[human resource management system]: https://github.com/lyzsk/human-resource-management-system
+[hrms-previews]: ./human-resource-management-system/previews/
 [fxgame]: https://github.com/lyzsk/graduate-fxgame
 [fxgame-previews]: #todo
 [graph-visualisation]: https://github.com/lyzsk/graph_visualisation
