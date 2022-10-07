@@ -36,8 +36,8 @@ upload mall, vhr, fxgame, graph-visualisation previews
 [vocdevkit]: ./analysis-of-herbarium-sheets/VOCdevkit/
 [html-css-js-demos]: https://github.com/lyzsk/html-css-js-demos
 [html-css-js-demos-previews]: ./html-css-js-demos/previews/
-[mall]: https://github.com/lyzsk/graduate-mall
-[mall-previews]: #todo
+[mall]: https://github.com/lyzsk/mall
+[mall-previews]: ./mall/previews/
 [human resource management system]: https://github.com/lyzsk/human-resource-management-system
 [hrms-previews]: ./human-resource-management-system/previews/
 [fxgame]: https://github.com/lyzsk/graduate-fxgame
